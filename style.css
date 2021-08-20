@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif;
+    background-color: hsla(0, 0%, 75%, 0.7)
+}
+
+h1 {
+    margin: 30px;
+    background-color: white;
+    padding: 30px;
+}
+
+article {
+    margin: 30px;
+}
+
+p {
+    color: white;
+    margin-top: -12px;
+}
+
+.fourteen {
+    background-color: rgba(45, 45, 247, 0.856);
+    padding: 10px;
+}
+
+.thirteen {
+    background-color: rgba(45, 45, 247, 0.756);
+    padding: 10px;
+}
+
+.twelve {
+    background-color: rgba(45, 45, 247, 0.656);
+    padding: 10px;
+}
+
+.eleven {
+    background-color: rgba(45, 45, 247, 0.556);
+    padding: 10px;
+}
+
+.ten {
+    background-color: rgba(45, 45, 247, 0.456);
+    padding: 10px;
+}
+
+.nine {
+    background-color: rgba(45, 45, 247, 0.356);
+    padding: 10px;
+}
+
+.eight {
+    background-color: rgba(45, 45, 247, 0.256);
+    padding: 10px;
+}
+
+.seven {
+    background-color: rgb(52, 155, 52);
+    padding: 10px;
+}
+
+.six {
+    background-color: rgb(243, 158, 225);
+    padding: 10px;
+}
+
+.five {
+    background-color: rgb(233, 124, 206);
+    padding: 10px;
+}
+
+.four {
+    background-color: rgb(236, 115, 200);
+    padding: 10px;
+}
+
+.three {
+    background-color: rgb(236, 95, 206);
+    padding: 10px;
+}
+
+.two {
+    background-color: rgb(240, 85, 210);
+    padding: 10px;
+}
+
+.one {
+    background-color: rgb(250, 92, 220);
+    padding: 10px;
+}
+
+.zero {
+    background-color: rgb(243, 55, 218);
+    padding: 10px;
+}
